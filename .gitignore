@@ -1,0 +1,10 @@
+build/
+CMakeUserPresets.json
+*.vcxproj
+*.sln
+.vs/
+
+*.pem
+!correct_public.pem
+!wrong_public.pem
+
